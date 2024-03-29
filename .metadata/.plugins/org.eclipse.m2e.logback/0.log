@@ -1,0 +1,35 @@
+2023-10-04 15:01:54,354 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-04 15:02:33,492 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.7+7
+2023-10-04 15:02:33,538 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-10-04 15:02:33,599 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@29045a5e{/help,null,AVAILABLE}
+2023-10-04 15:02:33,639 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@766b505d{HTTP/1.1, (http/1.1)}{127.0.0.1:61938}
+2023-10-04 15:02:33,649 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@4cf4fe7c{STARTING}[10.0.13,sto=0] @81202ms
+2023-10-04 15:03:08,434 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@4cf4fe7c{STOPPING}[10.0.13,sto=0]
+2023-10-04 15:03:08,449 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@766b505d{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-10-04 15:03:08,533 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@29045a5e{/help,null,STOPPED}
+2023-10-04 15:06:34,937 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.flashCode:automacaoMobileMcDonalds:0.0.1-SNAPSHOT @ C:\Users\marta\eclipse-workspace-marta\automacaoMobileMcDonalds\pom.xml.
+2023-10-04 15:06:36,626 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:36,637 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-04 15:06:36,643 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:36,646 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-04 15:06:37,085 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.flashCode:automacaoWebPageTerceira:0.0.1-SNAPSHOT @ C:\Users\marta\eclipse-workspace-marta\automacaoWebPageTerceira\pom.xml.
+2023-10-04 15:06:37,552 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:37,554 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-04 15:06:37,558 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:37,560 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-04 15:06:38,378 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.flashcode:martaAutomacao:0.0.1-SNAPSHOT @ C:\Users\marta\eclipse-workspace-marta\martaAutomacao\pom.xml.
+2023-10-04 15:06:38,704 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:38,706 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-04 15:06:38,710 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:38,715 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-04 15:06:39,279 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.flashCode:meuPrimeiroTesteSimulacoes:0.0.1-SNAPSHOT @ C:\Users\marta\eclipse-workspace-marta\meuPrimeiroTesteSimulacoes\pom.xml.
+2023-10-04 15:06:39,318 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:39,320 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-04 15:06:39,324 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:39,326 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-04 15:06:39,516 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.flashCode:minhaAutomacaoWebPage:0.0.1-SNAPSHOT @ C:\Users\marta\eclipse-workspace-marta\minhaAutomacaoWebPage\pom.xml.
+2023-10-04 15:06:39,763 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:39,767 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-04 15:06:39,771 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-04 15:06:39,774 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-04 15:10:52,892 [Worker-13: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
